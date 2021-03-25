@@ -1,0 +1,12 @@
+{
+  "name": "SocketAppBare",
+  "displayName": "SocketAppBare",
+  "expo": {
+    "name": "SocketAppBare",
+    "slug": "SocketAppBare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
